@@ -16,7 +16,8 @@ This repository was used to train RL agents on the Pendulum-V1 environment using
 ## Objective: 
 
 - Confirm findings and comparative analysis conducted in the Policy Gradient Methods literature review report for the ML702 course at MBZUAI.
-- Several plots were generated to confirm the relative performance and convergence rates of the above methods. The plots can be found at PLOTS.
+- Several plots were generated to confirm the relative performance and convergence rates of the above methods. 
+### The plots can be found in the PLOTS folder
 
 
 The below details are found in the original repository's README.md file:
